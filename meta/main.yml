@@ -1,0 +1,7 @@
+---
+galaxy_info:
+  author: "Kazunori Maehata"
+  company: hoge
+  license: BSD
+  min_ansible_version: 1.4
+

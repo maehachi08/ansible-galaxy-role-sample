@@ -1,0 +1,4 @@
+---
+- name: debug var res_exists
+  debug:
+    msg: "role2"
